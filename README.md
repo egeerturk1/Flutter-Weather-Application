@@ -1,16 +1,6 @@
-# hava_durumu
+# Weather Application
+This is a weather application include login,register and main parts.
+## Details
+In this application, at the beggining, there is a login page. If you want to login the application you must be registered. That's why you can register before login.
+After login, you can reach the main page. In the main page there is one text field and you can weather of cities by entering name of cities.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
